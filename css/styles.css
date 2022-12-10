@@ -7,5 +7,9 @@ h1 {
 
 p {
   text-align: center;
-  font-size: x-large;
+}
+
+.croissant {
+  display: block;
+  height: 200px;
 }
